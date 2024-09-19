@@ -1,0 +1,150 @@
+[
+    {
+      "id": "bitcoin",
+      "name": "Bitcoin",
+      "logo": "https://cryptologos.cc/logos/bitcoin-btc-logo.png",
+      "price": "27,500",
+      "change": "1.23"
+    },
+    {
+      "id": "ethereum",
+      "name": "Ethereum",
+      "logo": "https://cryptologos.cc/logos/ethereum-eth-logo.png",
+      "price": "1,700",
+      "change": "-0.56"
+    },
+    {
+      "id": "binancecoin",
+      "name": "Binance Coin",
+      "logo": "https://cryptologos.cc/logos/binance-coin-bnb-logo.png",
+      "price": "340",
+      "change": "2.34"
+    },
+    {
+      "id": "cardano",
+      "name": "Cardano",
+      "logo": "https://cryptologos.cc/logos/cardano-ada-logo.png",
+      "price": "0.50",
+      "change": "0.45"
+    },
+    {
+      "id": "solana",
+      "name": "Solana",
+      "logo": "https://cryptologos.cc/logos/solana-sol-logo.png",
+      "price": "20.00",
+      "change": "-1.23"
+    },
+    {
+      "id": "ripple",
+      "name": "Ripple",
+      "logo": "https://cryptologos.cc/logos/ripple-xrp-logo.png",
+      "price": "0.75",
+      "change": "1.56"
+    },
+    {
+      "id": "polkadot",
+      "name": "Polkadot",
+      "logo": "https://cryptologos.cc/logos/polkadot-dot-logo.png",
+      "price": "6.50",
+      "change": "3.12"
+    },
+    {
+      "id": "dogecoin",
+      "name": "Dogecoin",
+      "logo": "https://cryptologos.cc/logos/dogecoin-doge-logo.png",
+      "price": "0.10",
+      "change": "-0.45"
+    },
+    {
+      "id": "litecoin",
+      "name": "Litecoin",
+      "logo": "https://cryptologos.cc/logos/litecoin-ltc-logo.png",
+      "price": "90",
+      "change": "2.67"
+    },
+    {
+      "id": "chainlink",
+      "name": "Chainlink",
+      "logo": "https://cryptologos.cc/logos/chainlink-link-logo.png",
+      "price": "25.00",
+      "change": "0.56"
+    },
+    {
+      "id": "uniswap",
+      "name": "Uniswap",
+      "logo": "https://cryptologos.cc/logos/uniswap-uni-logo.png",
+      "price": "15.00",
+      "change": "-1.89"
+    },
+    {
+      "id": "stellar",
+      "name": "Stellar",
+      "logo": "https://cryptologos.cc/logos/stellar-xlm-logo.png",
+      "price": "0.13",
+      "change": "1.12"
+    },
+    {
+      "id": "usd-coin",
+      "name": "USD Coin",
+      "logo": "https://cryptologos.cc/logos/usd-coin-usdc-logo.png",
+      "price": "1.00",
+      "change": "0.00"
+    },
+    {
+      "id": "bitcoin-cash",
+      "name": "Bitcoin Cash",
+      "logo": "https://cryptologos.cc/logos/bitcoin-cash-bch-logo.png",
+      "price": "240",
+      "change": "0.34"
+    },
+    {
+      "id": "tron",
+      "name": "TRON",
+      "logo": "https://cryptologos.cc/logos/tron-trx-logo.png",
+      "price": "0.08",
+      "change": "0.23"
+    },
+    {
+      "id": "eos",
+      "name": "EOS",
+      "logo": "https://cryptologos.cc/logos/eos-eos-logo.png",
+      "price": "1.50",
+      "change": "0.45"
+    },
+    {
+      "id": "monero",
+      "name": "Monero",
+      "logo": "https://cryptologos.cc/logos/monero-xmr-logo.png",
+      "price": "180",
+      "change": "2.34"
+    },
+    {
+      "id": "dash",
+      "name": "Dash",
+      "logo": "https://cryptologos.cc/logos/dash-dash-logo.png",
+      "price": "80",
+      "change": "-0.67"
+    },
+    {
+      "id": "zcash",
+      "name": "Zcash",
+      "logo": "https://cryptologos.cc/logos/zcash-zec-logo.png",
+      "price": "50",
+      "change": "1.56"
+    },
+    {
+      "id": "vechain",
+      "name": "VeChain",
+      "logo": "https://cryptologos.cc/logos/vechain-vet-logo.png",
+      "price": "0.05",
+      "change": "0.78"
+    },
+    {
+      "id": "filecoin",
+      "name": "Filecoin",
+      "logo": "https://cryptologos.cc/logos/filecoin-fil-logo.png",
+      "price": "10.00",
+      "change": "-1.12"
+    }
+  ]
+  

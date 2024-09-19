@@ -1,0 +1,16 @@
+.crypto-card {
+    border: 1px solid #ddd;
+    padding: 16px;
+    margin: 16px;
+    border-radius: 8px;
+    background-color: #fff;
+  }
+  
+  .crypto-card .positive {
+    color: green;
+  }
+  
+  .crypto-card .negative {
+    color: red;
+  }
+  
